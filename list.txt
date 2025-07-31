@@ -1,4 +1,4 @@
-! Title: No I don't want premium!
+! Title: No, I don't want premium!
 ! Expires: 2 weeks
 ! Description: A blocklist for pop-ups advertising the premium version of a service.
 ! Homepage: https://github.com/Awwkie/UBLOCKorigin_No-I-dont-want-premium
@@ -19,5 +19,10 @@ www.tumblr.com##.oMSQy
 ! Youtube (desktop): removes Premium ads
 www.youtube.com###foreground-content
 
-! Spacehey : removes one of the two donations buttons
-spacehey.com##.m-hide.m-col
+! Spotify (desktop): removes Premium ads
+open.spotify.com##.Upqw01TOXETOmR5Td7Dj.e-91000-button--small.encore-inverted-light-set.e-91000-button-primary__inner.e-91000-overflow-wrap-anywhere.e-91000-baseline
+open.spotify.com##div.fzcUDM.sc-fHjqPf:nth-of-type(4)
+open.spotify.com##.e-91000-button--leading.e-91000-button--small.e-91000-overflow-wrap-anywhere.encore-text-body-small-bold.dzIYeQ.Button-sc-1dqy6lx-0
+
+! Proton Mail (desktop): removes "Upgrade" button in the topbar
+mail.proton.me##.button-promotion
