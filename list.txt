@@ -5,13 +5,19 @@
 ! Last updated: 31/07/2025
 
 
-! removes intrusive Nitro ads from the Discord webapp
+! Discord webapp (desktop): removes Nitro ads
 discord.com##.content__99f8c > li.container_e45859.channel__972a0 > .linkButton__972a0.interactive__972a0.interactive_bf202d > .link__972a0
 discord.com##.floatingNitroUpsell__39749.upsellContainerFloating__0b69f.upsellContainerShadow__0b69f.upsellContainer__0b69f
 discord.com##.container__8279f
 discord.com##.background__65c15.premiumBackground__65c15
 discord.com###profile-customization-tab > div:nth-of-type(4)
 
-! removes references to Premium from Tumblr
+! Tumblr (desktop): removes Premium ads
 www.tumblr.com##.HxaHT.VVqTC.EvhBA
 www.tumblr.com##.oMSQy
+
+! Youtube (desktop): removes Premium ads
+www.youtube.com###foreground-content
+
+! Spacehey : removes one of the two donations buttons
+spacehey.com##.m-hide.m-col##.m-hide.m-col
