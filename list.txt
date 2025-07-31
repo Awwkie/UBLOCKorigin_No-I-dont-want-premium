@@ -2,6 +2,7 @@
 ! Expires: 2 weeks
 ! Description: A blocklist for pop-ups advertising the premium version of a service.
 ! Homepage: https://github.com/Awwkie/UBLOCKorigin_No-I-dont-want-premium
+! Blocklist link: https://raw.githubusercontent.com/Awwkie/UBLOCKorigin_No-I-dont-want-premium/main/list.txt
 
 
 ! removes intrusive Nitro ads from the Discord webapp
