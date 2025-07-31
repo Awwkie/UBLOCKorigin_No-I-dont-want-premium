@@ -20,4 +20,4 @@ www.tumblr.com##.oMSQy
 www.youtube.com###foreground-content
 
 ! Spacehey : removes one of the two donations buttons
-spacehey.com##.m-hide.m-col##.m-hide.m-col
+spacehey.com##.m-hide.m-col
