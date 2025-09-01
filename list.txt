@@ -24,5 +24,8 @@ open.spotify.com##.Upqw01TOXETOmR5Td7Dj.e-91000-button--small.encore-inverted-li
 open.spotify.com##div.fzcUDM.sc-fHjqPf:nth-of-type(4)
 open.spotify.com##.e-91000-button--leading.e-91000-button--small.e-91000-overflow-wrap-anywhere.encore-text-body-small-bold.dzIYeQ.Button-sc-1dqy6lx-0
 
-! Proton Mail (desktop): removes "Upgrade" button in the topbar
+! Proton Mail (desktop): removes "Upgrade" prompts
 mail.proton.me##.button-promotion
+account.protonvpn.com##.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
+mail.proton.me##.p-0-5.lg\:text-center.text-left.bg-promotion-gradient-horizontal.relative.bg-promotion.shrink-0.flex-nowrap.flex
+
