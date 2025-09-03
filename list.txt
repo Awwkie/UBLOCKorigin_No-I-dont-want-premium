@@ -12,10 +12,11 @@ discord.com##.container__8279f
 discord.com##.background__65c15.premiumBackground__65c15
 discord.com###profile-customization-tab > div:nth-of-type(4)
 
-! Tumblr (desktop): removes Premium ads and references to TumblrMart
+! Tumblr (desktop): removes Premium ads, references to TumblrMart, and to Blaze.
 www.tumblr.com##.HxaHT.VVqTC.EvhBA
 www.tumblr.com##.oMSQy
 www.tumblr.com##span.ZQMrc:nth-of-type(3) > .ZQMrc > .IYrO9 > .UyyJb.TRX6J > .tDT48.EvhBA
+www.tumblr.com##[href="/blog/awwkie/blaze"]
 
 ! Youtube (desktop): removes Premium ads
 www.youtube.com###foreground-content
