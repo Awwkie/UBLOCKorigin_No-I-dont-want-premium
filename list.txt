@@ -30,6 +30,7 @@ open.spotify.com##.e-91000-button--leading.e-91000-button--small.e-91000-overflo
 mail.proton.me##.button-promotion
 account.protonvpn.com##.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
 mail.proton.me##.p-0-5.lg\:text-center.text-left.bg-promotion-gradient-horizontal.relative.bg-promotion.shrink-0.flex-nowrap.flex
+mail.proton.me##.button-promotion--yellow.items-center.flex.max-w-full.button-solid-norm.button-medium.button-pill.button
 
 !Reddit (desktop + mobile): removes references to Reddit premium (beta), "Upgrade" buttons, and buttons promoting advertising on Reddit
 www.reddit.com##advertise-button > .contents.nd\:visible > .contents.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[var\(--rem8\)\].button-medium
