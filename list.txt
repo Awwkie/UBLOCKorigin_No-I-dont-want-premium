@@ -11,6 +11,7 @@ discord.com##.floatingNitroUpsell__39749.upsellContainerFloating__0b69f.upsellCo
 discord.com##.container__8279f
 discord.com##.background__65c15.premiumBackground__65c15
 discord.com###profile-customization-tab > div:nth-of-type(4)
+discord.com##.content_d125d2 > li.container_e45859.channel__972a0 > .linkButton__972a0.interactive__972a0.interactive_bf202d > .link__972a0
 
 ! Tumblr (desktop): removes Premium ads, references to TumblrMart, and to Blaze.
 www.tumblr.com##.HxaHT.VVqTC.EvhBA
