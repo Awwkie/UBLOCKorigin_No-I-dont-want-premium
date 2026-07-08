@@ -40,4 +40,7 @@ www.reddit.com##faceplate-tracker:nth-of-type(3)
 www.reddit.com##faceplate-tracker.contents:nth-of-type(6) > .mt-0.list-none.relative > .no-underline.-outline-offset-1.py-xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
 
 !Letterboxd (desktop)
-||a.ltrbxd.com/*sm/upload/cv/tk/el/jn/pro-250*.png?k=*
+letterboxd.com##.js-hide-in-app.banner-950.banner
+letterboxd.com##.section.videostore-feature
+letterboxd.com##.js-hide-in-app.banner-250.banner
+letterboxd.com##.js-hide-in-app.banner-230.banner
